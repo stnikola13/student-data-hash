@@ -1,2 +1,2 @@
-# student-data-hash
-A program which implements a custom type of hash tables in C++ used to store data and information about students.
+# Student data hash table implementation
+A program which implements a custom type of hash tables in C++ used to store data and information about students. A field in the table contains all necessary information about the student, whereas the key is the student's student ID. The program allows the user to insert or delete a key, find a key, clear the entire table, print the formatted table, etc. The program uses extendible hashing in order to improve storage usage efficiency.
